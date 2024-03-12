@@ -11,6 +11,7 @@
     justify-content: center;
     align-content: center;
     background: hsl(30, 38%, 92%);
+    
 }
 
 .details {
@@ -113,6 +114,7 @@ button {
     padding: 11px 24px;
     border-radius: .4em;
     margin-top: -14px;
+    cursor: pointer;
     color: hsl(0, 0%, 100%);
     display: flex;
     align-items: center;
@@ -137,7 +139,7 @@ button:hover {
     font-weight: 400;
 }
 
-.attribution a{
+.attribution a {
     text-decoration: none;
     color: hsl(228, 45%, 44%);
 
